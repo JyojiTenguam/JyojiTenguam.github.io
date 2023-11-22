@@ -1,53 +1,71 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&display=swap');
+body {
+ background-color: #DDD8B8;
+ padding: 2%;
+ }
 
-        body {
-            background-color: rgb(111, 228, 164);
-            font-family: sans-serif;
-        }
+ .meuNome {
+    text-align: center;
+ }
 
-        .meuNome,
-        .descricao {
-            font-family: 'Roboto Slab', serif;
+.descricao {
+ font-family: 'Roboto Slab', serif;
+ position: absolute;
+ top: 40%;
+ left: 310px;
+ }
 
+ em {
+ color: blueviolet;
+ }
 
-        }
+.c {
+    font-size: 20px;
+}
 
-        em {
-            color: blueviolet;
-        }
+ .cakephp {
+ font-size: 19px;
+ }
 
-        .c++ {
-            font-size: 20px;
-        }
+ .css-3 {
+ font-size: 18px;
+ }
 
-        .cakephp {
-            font-size: 19px;
-        }
+ .html-5 {
+ font-size: 17px;
+ }
 
-        .css-3 {
-            font-size: 18px;
-        }
+ .java {
+ font-size: 16px;
+ }
 
-        .html-5 {
-            font-size: 17px;
-        }
+ .javascript {
+ font-size: 15px;
+ }
 
-        .java {
-            font-size: 16px;
-        }
+ .metoAgil {
+    font-size: 14px;
+ }
 
-        .javascript {
-            font-size: 15px;
-        }
+ .php {
+ font-size: 13px;
+ }
 
-        .metoAgil {
-            font-size: 14px;
-        }
+ .sql {
+ font-size: 12px;
+ }
 
-        .php {
-            font-size: 13px;
-        }
+#minha-foto {
+    float: left;
+    height: 280px;
+    padding: 10px;
+    background-color: blueviolet;
+}
 
-        .sql {
-            font-size: 12px;
-        }
+.image-container {
+    height: 300px;
+    position: relative;
+}
+
+ul li:nth-child(odd) {
+    background-color: aqua;
+}
