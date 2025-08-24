@@ -1,12 +1,74 @@
-# React + Vite
+# 🌐 Jyoji Tenguam Portfolio  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório é o **portfólio online de Jonathan Jyoji Tenguam**, apresentando meus projetos de desenvolvimento web, habilidades e trajetória profissional. Aqui você encontrará exemplos de aplicações criadas com **React, TailwindCSS, TypeScript** e outras tecnologias modernas, demonstrando minha experiência e dedicação em criar soluções digitais limpas, escaláveis e intuitivas.  
 
-Currently, two official plugins are available:
+## ✨ Demonstração  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> O portfólio apresenta seções como:  
+> - Sobre mim  
+> - Projetos  
+> - Habilidades  
+> - Contato  
 
-## Expanding the ESLint configuration
+Explore o site para conhecer meus trabalhos, habilidades técnicas e projetos desenvolvidos.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📋 Índice  
+
+- [🌐 Jyoji Tenguam Portfolio](#-jyoji-tenguam-portfolio)  
+  - [✨ Demonstração](#-demonstração)  
+  - [📋 Índice](#-índice)  
+  - [💡 Sobre](#-sobre)  
+  - [🧠 Habilidades Desenvolvidas](#-habilidades-desenvolvidas)  
+  - [🧪 Tecnologias Utilizadas](#-tecnologias-utilizadas)  
+  - [🧭 Como Visualizar o Projeto](#-como-visualizar-o-projeto)  
+  - [👤 Autor](#-autor)  
+
+---
+
+## 💡 Sobre  
+
+Olá! Sou **Jonathan Jyoji Tenguam**, desenvolvedor front-end apaixonado por **React, TailwindCSS e TypeScript**. Meu objetivo é criar aplicações web limpas, escaláveis e com excelente experiência do usuário.  
+
+Minha jornada começou explorando programação e ajudando no negócio da família, e desde então venho me especializando em desenvolvimento web, construindo projetos que vão de dashboards a aplicativos de gerenciamento pessoal.  
+
+---
+
+## 🧠 Habilidades Desenvolvidas  
+
+- Criação de interfaces web responsivas e modernas  
+- Desenvolvimento front-end com **React, TypeScript e TailwindCSS**  
+- Estruturação de projetos escaláveis e organizados  
+- Boas práticas de UX/UI, performance e acessibilidade  
+- Lógica de programação e resolução de problemas  
+- Experiência com back-end básico: Node.js e Python  
+
+---
+
+## 🧪 Tecnologias Utilizadas  
+
+- **Frontend:** React, TypeScript, TailwindCSS, HTML5, CSS3, JavaScript  
+- **Build Tool:** Vite  
+- **Ferramentas:** ESLint, Prettier, Git/GitHub  
+- **Back-end (conhecimentos básicos):** Node.js, Python  
+
+---
+
+## 🧭 Como Visualizar o Projeto  
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/JyojiTenguam/JyojiTenguam.github.io.git
+cd JyojiTenguam.github.io
+npm install
+npm run dev
+```
+
+Em seguida, abra o navegador e acesse o endereço fornecido pelo Vite (geralmente http://localhost:5173).
+
+> Alternativamente, você pode acessar o portfólio online via GitHub Pages:
+https://jyojitenguam.github.io
+
+## 👤 Autor
+
+Este projeto foi desenvolvido por **Jyoji Tenguam**, como parte do **Bootcamp Santander 2025 - DIO**.
