@@ -14,14 +14,14 @@ Explore o site para conhecer meus trabalhos, habilidades técnicas e projetos de
 
 ## 📋 Índice  
 
-- [🌐 Jyoji Tenguam Portfolio](#-jyoji-tenguam-portfolio)  
-  - [✨ Demonstração](#-demonstração)  
-  - [📋 Índice](#-índice)  
-  - [💡 Sobre](#-sobre)  
-  - [🧠 Habilidades Desenvolvidas](#-habilidades-desenvolvidas)  
-  - [🧪 Tecnologias Utilizadas](#-tecnologias-utilizadas)  
-  - [🧭 Como Visualizar o Projeto](#-como-visualizar-o-projeto)  
-  - [👤 Autor](#-autor)  
+- [🌐 Jyoji Tenguam Portfolio](#-jyoji-tenguam-portfolio)
+  - [✨ Demonstração](#-demonstração)
+  - [📋 Índice](#-índice)
+  - [💡 Sobre](#-sobre)
+  - [🧠 Habilidades Desenvolvidas](#-habilidades-desenvolvidas)
+  - [🧪 Tecnologias Utilizadas](#-tecnologias-utilizadas)
+  - [🧭 Como Visualizar o Projeto](#-como-visualizar-o-projeto)
+  - [👤 Autor](#-autor)
 
 ---
 
@@ -67,7 +67,7 @@ npm run dev
 Em seguida, abra o navegador e acesse o endereço fornecido pelo Vite (geralmente http://localhost:5173).
 
 > Alternativamente, você pode acessar o portfólio online via GitHub Pages:
-https://jyojitenguam.github.io
+https://jyojitenguam.github.io/jyoji-portfolio/
 
 ## 👤 Autor
 
